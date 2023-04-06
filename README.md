@@ -10,7 +10,7 @@ N/A
 
 ## Usage
 
-![Screenshot of the Webpage](screenshot-index.html.png)
+![Screenshot of the Webpage](./assests/screenshot-index.html.png)
 
 To generate a set of password, click the generate password button. After, you will be prompted with a series of questions that narrows down the password specifications.
 
