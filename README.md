@@ -19,7 +19,7 @@ To generate a set of password, click the generate password button. After, you wi
 N/A
 
 #### Website Link
-[Click here for live site](https://slmov215.github.io/horiseon-refactor/)
+[Click here for live site](https://slmov215.github.io/password-generator-w3/)
 
 #### Contact
 [Stephen Mov on GitHub](https://github.com/slmov215/password-generator-w3)
