@@ -17,7 +17,7 @@ var isSP ;
 // Prompt - for criteria, length 8>=128, 
 function generatePassword() {
 
-  var possibleCharacters=prompt("How many characters would you like your password to have?  Choose between 8-128");
+  var possibleCharacters=prompt("How many characters would you like your password to have?  Min.8 Max.128");
   while(possibleCharacters <=7 || possibleCharacters >=129) {
     alert("Please try againg! Password length must be between 8-128 characters.");
     var possibleCharacters = (prompt("How many characters would you like your password to have? Please choose between 8-128"));
